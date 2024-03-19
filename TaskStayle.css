@@ -1,0 +1,62 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+h1 ,h3{
+    text-align:center;
+    border: black solid;
+    background-size: contain;
+}
+header {
+    background-color: #333;
+    margin: 0;
+    padding: 10px;
+}
+nav {
+    background-color: #333;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li {
+    float: right;
+}
+button{
+    float: right;
+    
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color:darkgray; 
+}
+
+table , td , th {
+    border: solid;
+    text-align: center;
+    margin: 150px;
+    width: 50%;
+    background-color: beige;
+}
+footer{
+    background-color: #333;
+    text-align: center;
+}
+div{
+    background-color: #333;
+    text-align: center;
+    
+}
+.second {
+    background-color: #333;
+}
